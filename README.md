@@ -56,7 +56,7 @@ Vin = 220 Vrms at 50Hz (312 Vp)
 
 
 ## Output
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/fbb94931-2e06-49a8-ad2f-0e6933c8f0eb" />
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/ef75beda-3b4e-46dc-93d4-88b5637aa635" />
 
 
 ## Result
